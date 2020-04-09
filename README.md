@@ -1,5 +1,8 @@
+# Darknet CrowdHuman
 
-# NOTE:
+As part of my Final Year Project, I have trained the Yolo object detector on the Crowdhuman dataset. The goal was to be able to achieve fast detections on people and faces in crowds.
+
+### NOTE:
 I've realized about a year later that this repo now comes up as one of the top links on a google search for "Crowdhuman", which is nice to see. However, I keep getting emails asking for the weights I trained.
 
 I no longer have access to the weights, they were trained and saved on the Imperial College EEE network drives. I am no longer a student at Imperial College (having graduated thanks to this project), and as such, no longer have access to the network.
@@ -7,11 +10,6 @@ I no longer have access to the weights, they were trained and saved on the Imper
 TLDR; The weights are lost in the depths of the EEE network oceans.
 
 I've left this repository up as a GUIDE to train the network. Its not too hard, and didnt take too long, about 24 hours on a 4GB GTX 1050Ti
-
-
-# Darknet CrowdHuman
-
-As part of my Final Year Project, I have trained the Yolo object detector on the Crowdhuman dataset. The goal was to be able to achieve fast detections on people and faces in crowds.
 
 ## Darknet
 
